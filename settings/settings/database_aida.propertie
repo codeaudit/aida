@@ -1,0 +1,6 @@
+dataSourceClassName=org.postgresql.ds.PGSimpleDataSource
+dataSource.serverName = localhost
+dataSource.databaseName = aida
+dataSource.user = aida_nlp
+dataSource.password = aida_nlp
+maximumPoolSize=5
